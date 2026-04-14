@@ -1,0 +1,37 @@
+{
+  "key": "B01N1SE4EP",
+  "category": "android",
+  "name": "NeuTab 7 inch Quad Core Android 5.1 Lollipop Tablet PC, Bluetooth 4.0, Dual Camera, FCC Certified(2017 Upgraded Edition)",
+  "seller": "NeuTab",
+  "wholePrice": "49",
+  "priceFraction": "99",
+  "stock": 50,
+  "star": 3,
+  "starCount": 4947,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41HNbRSKpfL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/NeuTab-Lollipop-Bluetooth-Certified-Upgraded/dp/B01N1SE4EP/ref=sr_1_5?s=electronics&ie=UTF8&qid=1499124822&sr=1-5&keywords=android",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "7.0 inches"
+    },
+    {
+      "description": "Operating System",
+      "value": "android 5.1 (Lollipop)"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "8.0 GB"
+    },
+    {
+      "description": "Connectivity Technology",
+      "value": "usb"
+    },
+    {
+      "description": "System Ram Type",
+      "value": "ddr3 sdram"
+    }
+  ],
+  "price": 49.99,
+  "shipping": 7.99
+}

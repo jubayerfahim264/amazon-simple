@@ -1,0 +1,37 @@
+{
+  "key": "B00RKNND2W",
+  "category": "camera",
+  "name": "Canon SX530 HS 9779B001 PowerShot",
+  "seller": "Canon",
+  "wholePrice": "249",
+  "priceFraction": "00",
+  "stock": 81,
+  "star": 4,
+  "starCount": 3147,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/412kGjEHJjL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Canon-SX530-HS-9779B001-PowerShot/dp/B00RKNND2W/ref=sr_1_26?s=electronics&ie=UTF8&qid=1499124549&sr=1-26&keywords=camera",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "3 inches"
+    },
+    {
+      "description": "Display Fixture Type",
+      "value": "Fixed"
+    },
+    {
+      "description": "Hardware Interface",
+      "value": "audio video port"
+    },
+    {
+      "description": "Wireless Communication Technology",
+      "value": "Yes"
+    },
+    {
+      "description": "Display Resolution Maximum",
+      "value": "461000"
+    }
+  ],
+  "price": 249,
+  "shipping": 0
+}

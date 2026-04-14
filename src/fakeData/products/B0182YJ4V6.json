@@ -1,0 +1,37 @@
+{
+  "key": "B0182YJ4V6",
+  "category": "android",
+  "name": "Yezz Andy 3.5E2 unlocked android phone black",
+  "seller": "Yezz",
+  "wholePrice": "37",
+  "priceFraction": "50",
+  "stock": 97,
+  "star": 3,
+  "starCount": 2770,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51PADZ7CaeL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Yezz-3-5E2-unlocked-android-phone/dp/B0182YJ4V6/ref=sr_1_18?s=electronics&ie=UTF8&qid=1499124822&sr=1-18&keywords=android",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "3.5 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "512.0 MB"
+    },
+    {
+      "description": "Operating System",
+      "value": "google android"
+    },
+    {
+      "description": "Wireless Communication Technology",
+      "value": "GSM"
+    },
+    {
+      "description": "Special Feature",
+      "value": "smartphone"
+    }
+  ],
+  "price": 37.5,
+  "shipping": 7.99
+}

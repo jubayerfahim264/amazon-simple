@@ -1,0 +1,37 @@
+{
+  "key": "B017LDNLIG",
+  "category": "android",
+  "name": "Tracfone Alcatel Onetouch Pixi Glitz A463BG",
+  "seller": "Tracfone",
+  "wholePrice": "19",
+  "priceFraction": "94",
+  "stock": 85,
+  "star": 3,
+  "starCount": 381,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51QdgznaNTL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Tracfone-Alcatel-Onetouch-Glitz-A463BG/dp/B017LDNLIG/ref=sr_1_6?s=electronics&ie=UTF8&qid=1499124822&sr=1-6&keywords=android",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "3.5"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "2 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Android 4.4 KitKat"
+    },
+    {
+      "description": "Display Type",
+      "value": "LCD"
+    },
+    {
+      "description": "Special Feature",
+      "value": "smartphone"
+    }
+  ],
+  "price": 19.94,
+  "shipping": 7.99
+}

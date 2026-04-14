@@ -1,0 +1,29 @@
+{
+  "key": "B006J0SVWE",
+  "category": "camera",
+  "name": "Vivitar 20 MP Digital Camera with 1.8\" LCD, Colors and Style May Vary",
+  "seller": "Vivitar",
+  "wholePrice": "25",
+  "priceFraction": "99",
+  "stock": 17,
+  "star": 2,
+  "starCount": 4688,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/417t7EUvLpL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Vivitar-Digital-Camera-Colors-Style/dp/B006J0SVWE/ref=sr_1_12?s=electronics&ie=UTF8&qid=1499124549&sr=1-12&keywords=camera",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "2.4 inches"
+    },
+    {
+      "description": "Display Type",
+      "value": "LCD"
+    },
+    {
+      "description": "Form Factor",
+      "value": "Compact"
+    }
+  ],
+  "price": 25.99,
+  "shipping": 7.99
+}

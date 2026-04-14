@@ -1,0 +1,37 @@
+{
+  "key": "B06XFGF7SN",
+  "category": "laptop",
+  "name": "Dell Inspiron 15.6\" Gaming Laptop (7th Gen Intel Core i7, 8 GB RAM, 1000 GB HDD + 128GB SSD), NVIDIA GTX 1050) (i5577-7359BLK-PUS)",
+  "seller": "Dell",
+  "wholePrice": "899",
+  "priceFraction": "99",
+  "stock": 57,
+  "star": 3,
+  "starCount": 3972,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41zfabBnrLL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Dell-Inspiron-Gaming-Laptop-i5577-7359BLK-PUS/dp/B06XFGF7SN/ref=sr_1_18?s=electronics&ie=UTF8&qid=1499124890&sr=1-18&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "15.6 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "8 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10 Home 64-bit English"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "1000 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "core i5 6300hq"
+    }
+  ],
+  "price": 899.99,
+  "shipping": 3.99
+}

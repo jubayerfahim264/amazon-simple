@@ -1,0 +1,37 @@
+{
+  "key": "B015WXL0C6",
+  "category": "laptop",
+  "name": "Apple MacBook Air 13.3-Inch Laptop (Intel Core i5 1.6GHz, 128GB Flash, 8GB RAM, OS X El Capitan)",
+  "seller": "Apple",
+  "wholePrice": "848",
+  "priceFraction": "99",
+  "stock": 22,
+  "star": 4,
+  "starCount": 2830,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51GRACqhHbL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Apple-MacBook-13-3-Inch-Laptop-Capitan/dp/B015WXL0C6/ref=sr_1_7?s=electronics&ie=UTF8&qid=1499124890&sr=1-7&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "13.3 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "8.0 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Mac OS X"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "128 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "core i5"
+    }
+  ],
+  "price": 848.99,
+  "shipping": 7.99
+}

@@ -1,0 +1,37 @@
+{
+  "key": "B01M18UZF5",
+  "category": "laptop",
+  "name": "ASUS ZenBook UX330UA-AH54 13.3-inch Ultra-Slim Laptop (Core i5 Processor, 8GB DDR3, 256GB SSD, Windows 10) With Harman Kardon Audio, Backlit keyboard, Fingerprint Reader",
+  "seller": "Asus",
+  "wholePrice": "699",
+  "priceFraction": "00",
+  "stock": 23,
+  "star": 4,
+  "starCount": 2457,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/417yCr3mvYL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/UX330UA-AH54-13-3-inch-Ultra-Slim-Processor-Fingerprint/dp/B01M18UZF5/ref=sr_1_5?s=electronics&ie=UTF8&qid=1499124890&sr=1-5&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "13.3 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "8 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "256 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "core i5 7200u"
+    }
+  ],
+  "price": 699,
+  "shipping": 3.99
+}

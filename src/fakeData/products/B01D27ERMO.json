@@ -1,0 +1,37 @@
+{
+  "key": "B01D27ERMO",
+  "category": "laptop",
+  "name": "Dell Inspiron Flagship 15.6-Inch FHD Touchscreen Backlit Keyboard Laptop PC (Intel Core i5-6200U, 8GB RAM, 1TB HDD, RealSense 3D Camera, DVD +/- RW, Bluetooth, Windows 10), Silver",
+  "seller": "Dell",
+  "wholePrice": "498",
+  "priceFraction": "94",
+  "stock": 14,
+  "star": 3,
+  "starCount": 3141,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51xk4birT2L._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Dell-15-6-Inch-Touchscreen-RealSense-Bluetooth/dp/B01D27ERMO/ref=sr_1_14?s=electronics&ie=UTF8&qid=1499124890&sr=1-14&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "15.6 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "8.0 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "1.0 TB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "core i5"
+    }
+  ],
+  "price": 498.94,
+  "shipping": 3.99
+}

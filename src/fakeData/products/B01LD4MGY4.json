@@ -1,0 +1,37 @@
+{
+  "key": "B01LD4MGY4",
+  "category": "laptop",
+  "name": "Acer Aspire E 15 E5-575G-57D4 15.6-Inches Full HD Notebook (i5-7200U, 8GB DDR4 SDRAM, 256GB SSD, Windows 10 Home), Obsidian Black",
+  "seller": "Acer",
+  "wholePrice": "579",
+  "priceFraction": "99",
+  "stock": 49,
+  "star": 4,
+  "starCount": 4232,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41HfDkXXyeL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Acer-E5-575G-57D4-15-6-Inches-Notebook-i5-7200U/dp/B01LD4MGY4/ref=sr_1_4?s=electronics&ie=UTF8&qid=1499124890&sr=1-4&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "15.6 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "8 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "core i5"
+    },
+    {
+      "description": "Display Technology",
+      "value": "LED-Lit"
+    }
+  ],
+  "price": 579.99,
+  "shipping": 7.99
+}

@@ -1,0 +1,37 @@
+{
+  "key": "B01N5P6TJW",
+  "category": "laptop",
+  "name": "Samsung Chromebook 3, 11.6\", 4GB RAM, 16GB eMMC, Chromebook (XE500C13-K04US)",
+  "seller": "Samsung",
+  "wholePrice": "169",
+  "priceFraction": "00",
+  "stock": 36,
+  "star": 3,
+  "starCount": 2527,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41XCWymAVaL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Samsung-Chromebook-11-6-16GB-XE500C13-K04US/dp/B01N5P6TJW/ref=sr_1_26?s=electronics&ie=UTF8&qid=1499124890&sr=1-26&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "11.6 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Chrome OS"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "16 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "8032"
+    }
+  ],
+  "price": 169,
+  "shipping": 7.99
+}

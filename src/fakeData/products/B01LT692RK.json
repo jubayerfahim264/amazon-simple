@@ -1,0 +1,37 @@
+{
+  "key": "B01LT692RK",
+  "category": "laptop",
+  "name": "ASUS E200HA Portable Lightweight 11.6-inch Intel Quad-Core Laptop, 4GB RAM, 32GB Storage, Windows 10 with 1 Year Microsoft Office 365 Subscription",
+  "seller": "Asus",
+  "wholePrice": "199",
+  "priceFraction": "00",
+  "stock": 41,
+  "star": 3,
+  "starCount": 4074,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51zIMkOI70L._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Lightweight-11-6-inch-Quad-Core-Microsoft-Subscription/dp/B01LT692RK/ref=sr_1_19?s=electronics&ie=UTF8&qid=1499124890&sr=1-19&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "11.6 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "32 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "intel atom"
+    }
+  ],
+  "price": 199,
+  "shipping": 3.99
+}

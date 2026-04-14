@@ -1,0 +1,37 @@
+{
+  "key": "B071SF41Y9",
+  "category": "laptop",
+  "name": "Microsoft Surface Pro (Intel Core i5, 8GB RAM, 256GB)",
+  "seller": "Microsoft",
+  "wholePrice": "1,294",
+  "priceFraction": "99",
+  "stock": 99,
+  "star": 3,
+  "starCount": 461,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/418g6Q3eTHL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Microsoft-Surface-Intel-Core-256GB/dp/B071SF41Y9/ref=sr_1_25?s=electronics&ie=UTF8&qid=1499124890&sr=1-25&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "12.3 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "8 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10 Pro"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "8032"
+    },
+    {
+      "description": "Display Technology",
+      "value": "LCD"
+    }
+  ],
+  "price": 1,
+  "shipping": 7.99
+}

@@ -1,0 +1,37 @@
+{
+  "key": "B01JLCKP34",
+  "category": "laptop",
+  "name": "HP Stream Laptop PC 14-ax010nr (Intel Celeron N3060, 4 GB RAM, 32 GB eMMC) with Office 365 Personal for one year",
+  "seller": "HP",
+  "wholePrice": "219",
+  "priceFraction": "99",
+  "stock": 62,
+  "star": 3,
+  "starCount": 2286,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51h+5rcpStL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/HP-Stream-14-ax010nr-Celeron-Personal/dp/B01JLCKP34/ref=sr_1_23?s=electronics&ie=UTF8&qid=1499124890&sr=1-23&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "14 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "32 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "celeron"
+    }
+  ],
+  "price": 219.99,
+  "shipping": 7.99
+}

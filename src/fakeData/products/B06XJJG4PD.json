@@ -1,0 +1,37 @@
+{
+  "key": "B06XJJG4PD",
+  "category": "laptop",
+  "name": "ASUS P-Series P2540UA-AB51 business standard Laptop, 7th Gen Intel Core i5, 2.5GHz (3M Cache, up to 3.1GHz), FHD Display, 8GB RAM, 1TB HDD, Windows 10 Home, Fingerprint, TPM, 9hrs battery life",
+  "seller": "Asus",
+  "wholePrice": "499",
+  "priceFraction": "00",
+  "stock": 35,
+  "star": 3,
+  "starCount": 599,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41PUHRFGpvL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/P2540UA-AB51-business-standard-Display-Fingerprint/dp/B06XJJG4PD/ref=sr_1_9?s=electronics&ie=UTF8&qid=1499124890&sr=1-9&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "15.6 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "8 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "1000 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "core i5 7200u"
+    }
+  ],
+  "price": 499,
+  "shipping": 7.99
+}

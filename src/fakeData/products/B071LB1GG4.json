@@ -1,0 +1,37 @@
+{
+  "key": "B071LB1GG4",
+  "category": "laptop",
+  "name": "Samsung XE510C24-K01US Chromebook Pro",
+  "seller": "Samsung",
+  "wholePrice": "549",
+  "priceFraction": "99",
+  "stock": 91,
+  "star": 4,
+  "starCount": 1157,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41QCsi3gCrL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Samsung-XE510C24-K01US-Chromebook-Pro/dp/B071LB1GG4/ref=sr_1_20?s=electronics&ie=UTF8&qid=1499124890&sr=1-20&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "12.3 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Chrome"
+    },
+    {
+      "description": "Connectivity Technology",
+      "value": "wireless"
+    },
+    {
+      "description": "Hardware Platform",
+      "value": "Chrome"
+    }
+  ],
+  "price": 549.99,
+  "shipping": 0
+}

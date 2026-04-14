@@ -1,0 +1,37 @@
+{
+  "key": "B06X6J2RLY",
+  "category": "laptop",
+  "name": "HP 15.6-Inch HD Touchscreen Laptop (Intel Quad Core Pentium N3540 2.16 GHz, 4GB DDR3L-1600 Memory, 500 GB HDD, DVD Burner, HDMI, HD Webcam, Win 10)",
+  "seller": "HP",
+  "wholePrice": "287",
+  "priceFraction": "94",
+  "stock": 85,
+  "star": 4,
+  "starCount": 149,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/416UTZJ0FbL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/HP-15-6-Inch-Touchscreen-Pentium-DDR3L-1600/dp/B06X6J2RLY/ref=sr_1_15?s=electronics&ie=UTF8&qid=1499124890&sr=1-15&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "15.6 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4.0 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "500.0 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "pentium"
+    }
+  ],
+  "price": 287.94,
+  "shipping": 7.99
+}

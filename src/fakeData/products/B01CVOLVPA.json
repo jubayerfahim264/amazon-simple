@@ -1,0 +1,37 @@
+{
+  "key": "B01CVOLVPA",
+  "category": "laptop",
+  "name": "Acer Chromebook 14, Aluminum, 14-inch Full HD, Intel Celeron Quad-Core N3160, 4GB LPDDR3, 32GB, Chrome, CB3-431-C5FM",
+  "seller": "Acer",
+  "wholePrice": "294",
+  "priceFraction": "98",
+  "stock": 57,
+  "star": 4,
+  "starCount": 678,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/518PvURfFsL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Acer-Chromebook-Aluminum-Quad-Core-CB3-431-C5FM/dp/B01CVOLVPA/ref=sr_1_21?s=electronics&ie=UTF8&qid=1499124890&sr=1-21&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "14 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Chrome"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "32 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "celeron"
+    }
+  ],
+  "price": 294.98,
+  "shipping": 7.99
+}

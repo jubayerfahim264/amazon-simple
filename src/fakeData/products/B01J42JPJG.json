@@ -1,0 +1,37 @@
+{
+  "key": "B01J42JPJG",
+  "category": "laptop",
+  "name": "Acer Chromebook R 11 Convertible, 11.6-Inch HD Touch, Intel Celeron N3150, 4GB DDR3L, 32GB, Chrome, CB5-132T-C1LK",
+  "seller": "Acer",
+  "wholePrice": "279",
+  "priceFraction": "99",
+  "stock": 19,
+  "star": 4,
+  "starCount": 4646,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51xMqkFZ+RL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Acer-Chromebook-Convertible-11-6-Inch-CB5-132T-C1LK/dp/B01J42JPJG/ref=sr_1_11?s=electronics&ie=UTF8&qid=1499124890&sr=1-11&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "11.6 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Chrome"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "32 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "celeron"
+    }
+  ],
+  "price": 279.99,
+  "shipping": 3.99
+}

@@ -1,0 +1,37 @@
+{
+  "key": "B019UDHOMO",
+  "category": "camera",
+  "name": "Canon PowerShot ELPH 180 (Silver) with 20.0 MP CCD Sensor and 8x Optical Zoom",
+  "seller": "Canon",
+  "wholePrice": "119",
+  "priceFraction": "00",
+  "stock": 35,
+  "star": 4,
+  "starCount": 2898,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/418Z3vJAlEL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Canon-PowerShot-Silver-Sensor-Optical/dp/B019UDHOMO/ref=sr_1_13?s=electronics&ie=UTF8&qid=1499124549&sr=1-13&keywords=camera",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "5 inches"
+    },
+    {
+      "description": "Hardware Interface",
+      "value": "audio video port"
+    },
+    {
+      "description": "Display Technology",
+      "value": "LCD"
+    },
+    {
+      "description": "Display Resolution Maximum",
+      "value": "1"
+    },
+    {
+      "description": "Display Type",
+      "value": "LCD"
+    }
+  ],
+  "price": 119,
+  "shipping": 7.99
+}

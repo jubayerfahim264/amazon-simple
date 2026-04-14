@@ -1,0 +1,37 @@
+{
+  "key": "B01N5G5PG2",
+  "category": "laptop",
+  "name": "ASUS Chromebook Flip C302CA-DHM4 12.5-Inch Touchscreen Intel Core m3 with 64GB storage and 4GB RAM",
+  "seller": "Asus",
+  "wholePrice": "499",
+  "priceFraction": "00",
+  "stock": 52,
+  "star": 4,
+  "starCount": 1146,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41LBkDN-S3L._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Chromebook-C302CA-DHM4-12-5-Inch-Touchscreen-storage/dp/B01N5G5PG2/ref=sr_1_16?s=electronics&ie=UTF8&qid=1499124890&sr=1-16&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "12.5 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Chrome"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "64 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "core m"
+    }
+  ],
+  "price": 499,
+  "shipping": 0
+}

@@ -1,0 +1,37 @@
+{
+  "key": "B01EIUOSRS",
+  "category": "laptop",
+  "name": "Apple MMGF2LL/A MacBook Air 13.3-Inch Laptop (8GB RAM 128 GB SSD) MMGF2",
+  "seller": "Apple",
+  "wholePrice": "799",
+  "priceFraction": "99",
+  "stock": 51,
+  "star": 4,
+  "starCount": 3295,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41AerRC5u6L._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Apple-MMGF2LL-MacBook-13-3-Inch-Laptop/dp/B01EIUOSRS/ref=sr_1_22?s=electronics&ie=UTF8&qid=1499124890&sr=1-22&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "13.3 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "8 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Mac OS X"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "128 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "core i5"
+    }
+  ],
+  "price": 799.99,
+  "shipping": 7.99
+}

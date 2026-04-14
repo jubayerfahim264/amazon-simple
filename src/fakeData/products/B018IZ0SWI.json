@@ -1,0 +1,37 @@
+{
+  "key": "B018IZ0SWI",
+  "category": "android",
+  "name": "BLU Advance 5.0 - Unlocked Dual Sim Smartphone - US GSM - Black",
+  "seller": "BLU",
+  "wholePrice": "59",
+  "priceFraction": "99",
+  "stock": 10,
+  "star": 3,
+  "starCount": 395,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41mXjdLezRL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/BLU-Advance-5-0-Unlocked-Smartphone/dp/B018IZ0SWI/ref=sr_1_7?s=electronics&ie=UTF8&qid=1499124822&sr=1-7&keywords=android",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "5 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Android"
+    },
+    {
+      "description": "Wireless Communication Technology",
+      "value": "GSM, 3G, 4G"
+    },
+    {
+      "description": "Cpu Model Speed",
+      "value": "1 GHz"
+    }
+  ],
+  "price": 59.99,
+  "shipping": 3.99
+}

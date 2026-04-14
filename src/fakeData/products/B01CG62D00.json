@@ -1,0 +1,37 @@
+{
+  "key": "B01CG62D00",
+  "category": "camera",
+  "name": "Kodak PIXPRO Friendly Zoom FZ43 16 MP Digital Camera with 4X Optical Zoom and 2.7\" LCD Screen (Black)",
+  "seller": "Kodak",
+  "wholePrice": "66",
+  "priceFraction": "40",
+  "stock": 59,
+  "star": 3,
+  "starCount": 3095,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41XZUouAKJL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Kodak-PIXPRO-Friendly-Digital-Optical/dp/B01CG62D00/ref=sr_1_7?s=electronics&ie=UTF8&qid=1499124549&sr=1-7&keywords=camera",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "2.7 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "8 MB"
+    },
+    {
+      "description": "Hardware Interface",
+      "value": "audio video port"
+    },
+    {
+      "description": "Display Technology",
+      "value": "LCD"
+    },
+    {
+      "description": "Display Resolution Maximum",
+      "value": "720p"
+    }
+  ],
+  "price": 66.4,
+  "shipping": 3.99
+}

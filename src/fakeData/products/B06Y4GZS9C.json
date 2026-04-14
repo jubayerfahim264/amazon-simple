@@ -1,0 +1,37 @@
+{
+  "key": "B06Y4GZS9C",
+  "category": "laptop",
+  "name": "Acer Predator Helios 300 Gaming Laptop, Intel Core i7, GeForce GTX 1 060, 15.6\" Full HD, 16GB DDR4, 256GB SSD, G3-571-77QK",
+  "seller": "Acer",
+  "wholePrice": "1,049",
+  "priceFraction": "99",
+  "stock": 22,
+  "star": 3,
+  "starCount": 257,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41v2oytxs9L._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Acer-Predator-Helios-GeForce-G3-571-77QK/dp/B06Y4GZS9C/ref=sr_1_8?s=electronics&ie=UTF8&qid=1499124890&sr=1-8&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "15.6 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "16 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10 Home"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "core i7"
+    },
+    {
+      "description": "Cpu Model Manufacturer",
+      "value": "Intel"
+    }
+  ],
+  "price": 1,
+  "shipping": 7.99
+}

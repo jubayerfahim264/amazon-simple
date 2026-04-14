@@ -1,0 +1,37 @@
+{
+  "key": "B01LZ6XKS6",
+  "category": "laptop",
+  "name": "Samsung Chromebook Plus Convertible Touch Laptop (XE513C24-K01US)",
+  "seller": "Samsung",
+  "wholePrice": "408",
+  "priceFraction": "45",
+  "stock": 96,
+  "star": 4,
+  "starCount": 3742,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41Ux4186xoL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Samsung-Chromebook-Convertible-Laptop-XE513C24-K01US/dp/B01LZ6XKS6/ref=sr_1_17?s=electronics&ie=UTF8&qid=1499124890&sr=1-17&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "12.3 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Chrome"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "32 GB"
+    },
+    {
+      "description": "Connectivity Technology",
+      "value": "wireless"
+    }
+  ],
+  "price": 408.45,
+  "shipping": 3.99
+}

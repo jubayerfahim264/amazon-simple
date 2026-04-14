@@ -1,0 +1,25 @@
+{
+  "key": "B072NYXDLY",
+  "category": "android",
+  "name": "5.0\" Phone Unlocked Dual Sim Quad Core 8GB Android 5.1 Cellphone Gold by TIMMY",
+  "seller": "Timmy",
+  "wholePrice": "68",
+  "priceFraction": "99",
+  "stock": 14,
+  "star": 5,
+  "starCount": 1182,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/411fzxxuuFL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Phone-Unlocked-Android-Cellphone-TIMMY/dp/B072NYXDLY/ref=sr_1_10?s=electronics&ie=UTF8&qid=1499124822&sr=1-10&keywords=android",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "5.0 inches"
+    },
+    {
+      "description": "Operating System",
+      "value": "google android"
+    }
+  ],
+  "price": 68.99,
+  "shipping": 3.99
+}

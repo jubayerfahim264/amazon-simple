@@ -1,0 +1,37 @@
+{
+  "key": "B06XKH29C8",
+  "category": "android",
+  "name": "TYD 10.1 inch Tablet Android 6.0 GPS Octa Core 2560X1600 IPS Bluetooth RAM 4GB ROM 64GB 13.0MP 3G Phone Call Tablets PC Dual sim card TYD-107-Black",
+  "seller": "Tianyida",
+  "wholePrice": "99",
+  "priceFraction": "00",
+  "stock": 95,
+  "star": 2,
+  "starCount": 1718,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/513RoqwKmPL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Android-2560X1600-Bluetooth-Tablets-TYD-107-Black/dp/B06XKH29C8/ref=sr_1_20?s=electronics&ie=UTF8&qid=1499124822&sr=1-20&keywords=android",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "10.1 inches"
+    },
+    {
+      "description": "Operating System",
+      "value": "Android"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "64.0 GB"
+    },
+    {
+      "description": "Connectivity Technology",
+      "value": "usb"
+    },
+    {
+      "description": "Hardware Platform",
+      "value": "android 6.0"
+    }
+  ],
+  "price": 99,
+  "shipping": 3.99
+}

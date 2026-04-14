@@ -1,0 +1,37 @@
+{
+  "key": "B00THKEKEQ",
+  "category": "camera",
+  "name": "Nikon Coolpix L340 20.2 MP Digital Camera with 28x Optical Zoom and 3.0-Inch LCD (Black)",
+  "seller": "Nikon",
+  "wholePrice": "159",
+  "priceFraction": "95",
+  "stock": 91,
+  "star": 4,
+  "starCount": 2620,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41d0gUpd0eL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Nikon-Coolpix-Digital-Optical-3-0-Inch/dp/B00THKEKEQ/ref=sr_1_17?s=electronics&ie=UTF8&qid=1499124549&sr=1-17&keywords=camera",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "3 inches"
+    },
+    {
+      "description": "Hardware Interface",
+      "value": "audio video port"
+    },
+    {
+      "description": "Memory Storage Capacity",
+      "value": "74 MB"
+    },
+    {
+      "description": "Display Type",
+      "value": "TFT"
+    },
+    {
+      "description": "Form Factor",
+      "value": "Compact"
+    }
+  ],
+  "price": 159.95,
+  "shipping": 7.99
+}

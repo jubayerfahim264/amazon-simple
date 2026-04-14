@@ -1,0 +1,37 @@
+{
+  "key": "B01NBE6Y5D",
+  "category": "laptop",
+  "name": "HP 15.6\" HD WLED Backlit Display Laptop, AMD A6-7310 Quad-Core APU 2GHz, 4GB RAM, 500GB HDD WiFi, DVD+/-RW, Webcam, Windows 10, Black",
+  "seller": "HP",
+  "wholePrice": "247",
+  "priceFraction": "98",
+  "stock": 74,
+  "star": 3,
+  "starCount": 4293,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51-2Z4ZWimL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/HP-Backlit-Display-A6-7310-Quad-Core/dp/B01NBE6Y5D/ref=sr_1_10?s=electronics&ie=UTF8&qid=1499124890&sr=1-10&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "15.6 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4.0 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "500.0 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "amd a series"
+    }
+  ],
+  "price": 247.98,
+  "shipping": 7.99
+}

@@ -1,0 +1,37 @@
+{
+  "key": "B00I8BIBCW",
+  "category": "camera",
+  "name": "Sony DSCW800/B 20.1 MP Digital Camera (Black)",
+  "seller": "Sony",
+  "wholePrice": "89",
+  "priceFraction": "98",
+  "stock": 37,
+  "star": 3,
+  "starCount": 3326,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/41Huy05eJiL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Sony-DSCW800-Digital-Camera-Black/dp/B00I8BIBCW/ref=sr_1_24?s=electronics&ie=UTF8&qid=1499124549&sr=1-24&keywords=camera",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "2.7 inches"
+    },
+    {
+      "description": "Display Fixture Type",
+      "value": "Fixed"
+    },
+    {
+      "description": "Display Resolution Maximum",
+      "value": "230000"
+    },
+    {
+      "description": "Memory Storage Capacity",
+      "value": "29 MB"
+    },
+    {
+      "description": "Display Type",
+      "value": "LCD"
+    }
+  ],
+  "price": 89.98,
+  "shipping": 3.99
+}

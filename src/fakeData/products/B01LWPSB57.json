@@ -1,0 +1,29 @@
+{
+  "key": "B01LWPSB57",
+  "category": "camera",
+  "name": "Camera Camcorders, Besteker HD 1080P 24MP 16X Digital Zoom Video Camcorder with 2.7\" LCD and 270 Degree Rotation Screen",
+  "seller": "Besteker",
+  "wholePrice": "53",
+  "priceFraction": "99",
+  "stock": 71,
+  "star": 3,
+  "starCount": 553,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/417uVGTgAlL._AC_US218_.jpg",
+  "url": "https://www.amazon.com/Camcorders-Besteker-Digital-Camcorder-Rotation/dp/B01LWPSB57/ref=sr_1_8?s=electronics&ie=UTF8&qid=1499124549&sr=1-8&keywords=camera",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "2.7 inches"
+    },
+    {
+      "description": "Display Resolution Maximum",
+      "value": "1920X1080"
+    },
+    {
+      "description": "Form Factor",
+      "value": "rotating"
+    }
+  ],
+  "price": 53.99,
+  "shipping": 3.99
+}

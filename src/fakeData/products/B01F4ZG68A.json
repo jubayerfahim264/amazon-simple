@@ -1,0 +1,37 @@
+{
+  "key": "B01F4ZG68A",
+  "category": "laptop",
+  "name": "HP 14-inch Laptop, AMD E2-7110, 4GB RAM, 32GB eMMC, Windows 10 (14-an013nr, Silver)",
+  "seller": "HP",
+  "wholePrice": "212",
+  "priceFraction": "33",
+  "stock": 33,
+  "star": 3,
+  "starCount": 2066,
+  "img": "https://images-na.ssl-images-amazon.com/images/I/414egKO4O3L._AC_US218_.jpg",
+  "url": "https://www.amazon.com/HP-14-inch-E2-7110-Windows-14-an013nr/dp/B01F4ZG68A/ref=sr_1_13?s=electronics&ie=UTF8&qid=1499124890&sr=1-13&keywords=laptop",
+  "features": [
+    {
+      "description": "Display Size",
+      "value": "14 inches"
+    },
+    {
+      "description": "Computer Memory Size",
+      "value": "4 GB"
+    },
+    {
+      "description": "Operating System",
+      "value": "Windows 10 Home"
+    },
+    {
+      "description": "Hard Disk Size",
+      "value": "32 GB"
+    },
+    {
+      "description": "Cpu Model Family",
+      "value": "e2 7110"
+    }
+  ],
+  "price": 212.33,
+  "shipping": 7.99
+}
