@@ -37,3 +37,16 @@
 .cartBtn:hover {
   background-color: #837004;
 }
+.btnAdded{
+  background-color: #c9c9c9;
+  color: rgb(48, 48, 48);
+  border: none;
+  padding: 5px 10px;
+  cursor: default;
+  margin-left: 10px;
+  width: 150px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

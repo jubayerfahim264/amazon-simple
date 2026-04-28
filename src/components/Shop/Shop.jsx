@@ -3,16 +3,20 @@ import fakeData from "../../fakeData/products";
 import "./Shop.css";
 import { Products } from "../Products/Products";
 import Cart from "../Cart/Cart";
+import { addToDb } from "../../utilities/fakedb";
 
 export const Shop = () => {
-  console.log(fakeData);
   const first10 = fakeData.slice(0, 10);
   const [product, setProducts] = useState(first10);
   const [cart, setCart] = useState([]);
 
   const handleAddProduct = (product) => {
-    const newCart = [...cart, product];
-    setCart(newCart);
+    const exits = cart.find((c) => c.key === cart.key);
+    if (!exits) {
+      const newCart = [...cart, product];
+      setCart(newCart);
+      addToDb(product.key, 1);
+    }
   };
 
   return (
@@ -23,6 +27,7 @@ export const Shop = () => {
             key={product.key}
             product={product}
             handleAddProduct={handleAddProduct}
+            cart={cart}
           />
         ))}
       </div>

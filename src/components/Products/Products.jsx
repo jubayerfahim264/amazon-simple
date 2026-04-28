@@ -1,6 +1,7 @@
 import React from "react";
 import { ShoppingCart } from "lucide-react";
 import "./Products.css";
+import { Link } from "react-router";
 
 export const Products = (props) => {
   const { name, img, key, price, seller, stock } = props.product;
@@ -10,7 +11,9 @@ export const Products = (props) => {
         <img src={img} alt={key} />
       </div>
       <div>
-        <h4 className="productName">{name}</h4>
+        <h4 className="productName">
+          <Link to={"/products/" + key}>{name}</Link>
+        </h4>
         <br />
         <p>by: {seller}</p>
         <br />
@@ -18,8 +21,7 @@ export const Products = (props) => {
         <p>only {stock} left in stock - order soon</p>
         <button
           className="cartBtn"
-          onClick={() => props.handleAddProduct(props.product)}
-        >
+          onClick={() => props.handleAddProduct(props.product)}>
           <ShoppingCart />
           <span>Add to cart</span>
         </button>
