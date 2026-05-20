@@ -53,3 +53,34 @@
 body {
   margin: 0;
 }
+
+.Reviewcontainer {
+  display: flex;
+  justify-content: space-between;
+  min-height: 100vh;
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  padding: 20px;
+}
+
+.ProductsContainer {
+  border-bottom: 1px solid #ffd000;
+  margin-right: 15px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  width: 90%;
+}
+
+.ProductsContainer {
+  margin-top: 0;
+  border-right: 1px solid #3f3f3f;
+  margin-left: 10px;
+}
+
+.CartContainer {
+  padding-bottom: 5px;
+  width: calc(100% - 70%);
+  float: left;
+}
